@@ -1,0 +1,69 @@
+{
+  "videos": [
+    {
+      "title": "Como testar seu Front-end? com Mario Souto | #HipstersPontoTube",
+      "cover": "./public/images/Capturafront.png",
+      "link": "https://www.youtube.com/embed/CaTbfdsVydE?si=a_GIg6I5-qhyul1G",
+      "system": "FRONT END",
+      "description": "O ‪@DevSoutinho‬ compartilhou dicas pra você testar seu Front-end e como praticar testes desde funcionalidades simples até as mais avançadas. Confere aí e conta pra gente se você está testando suas habilidades nessa área e quais bibliotecas costuma usar ✌😉",
+      "id": "ac1c"
+    },
+    {
+      "title": "Entendendo Back-End para Iniciantes em Programação (Parte 1) | Série \"Começando aos 40\"",
+      "cover": "./public/images/Capturaback.png",
+      "link": "https://www.youtube.com/embed/Qjk-cSW-jk4?si=cd3LUvYAY8N4TKs5",
+      "system": "BACK END",
+      "description": "Este é o 5o episódio da série \"Começando aos 40\". Você deve assistir os episódios anteriores da série pra entender onde estamos e recomendo assistir os 2 vídeos da série \"Sua Linguagem Não É Especial\". No episódio de hoje vou começar a introduzir os conceitos básicos para o que chamamos de \"back-end\", que na prática é a própria introdução à programação.\n\nA intenção do vídeo não é serem aulas nem tutoriais, mas conectar os pontos de diversos assuntos que vocês vão encontrar de forma desconexa se sair pesquisando pelo Google. Se você fez faculdade, já deveriam saber tudo que vou dizer aqui, então veja o que faltou nos estudos e acelere!\n\nEm resumo, vou falar rapidamente sobre os conceitos mais simples, linguagem Assembly, compiladores, interpretadores, máquinas virtuais, bytecode, processos, forks, threads, tudo que qualquer programador tem obrigação de saber na ponta da língua e em paralelo vou passar rapidamente de novo pelos anos 90.\n\nComo o episódio ficou longo, eu dividi em 2 partes. Na de hoje vou só até o crash das ponto coms em 2001, e vamos continuar dali na Parte 2 da semana que vem.",
+      "id": "592b"
+    },
+    {
+      "title": "5 projetos MOBILE para o seu PORTFÓLIO (Ideias de aplicativos)",
+      "cover": "./public/images/Capturamobile.png",
+      "link": "https://www.youtube.com/embed/tIKISc-UcVg?si=hDcVlclFuGRPFZyA",
+      "system": "MOBILE",
+      "description": "Uma das maiores dificuldades quando estamos aprendendo tecnologias é criar projetos para colocar em prática toda aquela teoria. Criar um projeto real é muito importante porque você acaba aprendendo muito, é muito diferente de fazer exercícios específicos e depois não saber de fato como juntar tudo aquilo. Criando um projeto você consegue conectar tudo que aprendeu com algo real e isso é muito importante! ",
+      "id": "aceb"
+    },
+    {
+      "title": "Seja um Programador Back-End de Sucesso (dicas que gostaríamos ter recebido) // Vlog #98",
+      "cover": "./public/images/Capturaback2.png",
+      "link": "https://www.youtube.com/embed/TJ90DZjYdWI?si=g5PdAUalnYFFS-IN",
+      "system": "BACK END",
+      "description": "Separamos nesse vídeo as principais skills que acreditamos serem necessárias para se tornar um ótimo Desenvolvedor BackEnd. Se tonar um programador é algo que leva tempo e precisa de dedicação e persistência. Com nossas dicas acreditamos que podemos dar um norte pra quem está iniciando e quer entender melhor como o processo de aprendizado pode ser conduzido.",
+      "id": "a603"
+    },
+    {
+      "id": "c6b2",
+      "title": "Tudo sobre Front-End: 💰 salários, o que estudar e dicas para carreira.",
+      "cover": "./public/images/Capturafront2.png",
+      "link": "https://www.youtube.com/embed/8xo1FID4TqU?si=Ike9U7Rdg7u3YrZA",
+      "system": "FRONT END",
+      "description": "Uma das principais opções de carreira a se seguir na programação é a de front-end. Se você está querendo apredender a programar, essa área é uma das melhores escolhas, pela grande demanda e bons salários"
+    },
+    {
+      "id": "6a6e",
+      "title": "Guia Completo para Programação Android (Iniciantes)",
+      "cover": "./public/images/Capturamobile2.png",
+      "link": "https://www.youtube.com/embed/0ee7EB641wI?si=Mvs3kTnuelAZokPZ",
+      "system": "MOBILE",
+      "description": "✅ Aulas ao Vivo de Desenvolvimento Mobile! Garanta sua vaga em: https://comercial1657028932.kpages.on..."
+    }
+  ],
+  "categories": [
+    {
+      "id": "5983",
+      "system": "FRONT END",
+      "color": "#00ffff"
+    },
+    {
+      "id": "b540",
+      "system": "BACK END",
+      "color": "#00ff00"
+    },
+    {
+      "id": "722a",
+      "system": "MOBILE",
+      "color": "#ffff00"
+    }
+  ]
+}
